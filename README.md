@@ -1,4 +1,4 @@
-![Screenshot 2024-07-09 150534](https://github.com/SatriaDwiA/TUGAS-PENGELOLAHAN-CITRA/assets/130272478/186d069f-afda-4b5c-a6e6-9103d6351f8a)# UAS---PENGOLAHAN-CITRA---TI.22.A.5
+# UAS---PENGOLAHAN-CITRA---TI.22.A.5
 |NAMA | NIM |
 | - | - |
 | Rahmat Hidayat | 312210565 |
